@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="image-popup" />
+            <item index="1" class="java.lang.String" itemvalue="image-popup-picture-id" />
+            <item index="2" class="java.lang.String" itemvalue="image-popup-handler" />
+            <item index="3" class="java.lang.String" itemvalue="image-popup-handler-data" />
+            <item index="4" class="java.lang.String" itemvalue="image-popup-fields" />
+            <item index="5" class="java.lang.String" itemvalue="image-popup-positions" />
+            <item index="6" class="java.lang.String" itemvalue="image-popup-show-preview" />
+            <item index="7" class="java.lang.String" itemvalue="picture-field" />
+            <item index="8" class="java.lang.String" itemvalue="delete-button" />
+            <item index="9" class="java.lang.String" itemvalue="not-reload" />
+            <item index="10" class="java.lang.String" itemvalue="filter-input" />
+            <item index="11" class="java.lang.String" itemvalue="date-picker" />
+            <item index="12" class="java.lang.String" itemvalue="ajax-delete-url" />
+            <item index="13" class="java.lang.String" itemvalue="ajax-delete-not-reload" />
+            <item index="14" class="java.lang.String" itemvalue="ajax-delete-item" />
+            <item index="15" class="java.lang.String" itemvalue="image-popup-signal-sender-name" />
+            <item index="16" class="java.lang.String" itemvalue="image-popup-signal-entity-id" />
+            <item index="17" class="java.lang.String" itemvalue="custom-popup-page" />
+            <item index="18" class="java.lang.String" itemvalue="custom-popup-page-url" />
+            <item index="19" class="java.lang.String" itemvalue="custom-popup-page-data" />
+            <item index="20" class="java.lang.String" itemvalue="custom-popup-page-handler" />
+            <item index="21" class="java.lang.String" itemvalue="custom-popup-page-width" />
+            <item index="22" class="java.lang.String" itemvalue="plugin_status" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="django" />
+            <item index="1" class="java.lang.String" itemvalue="djangorestframework" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
