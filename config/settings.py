@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy UnRestricted
+
+https://github.com/Dream132872/django_course_20231026
 """
 
 from pathlib import Path
@@ -42,7 +44,8 @@ INSTALLED_APPS = [
     'product',
     'slider',
     'sorl.thumbnail',
-    'article'
+    'article',
+    'authentication'
 ]
 
 MIDDLEWARE = [
